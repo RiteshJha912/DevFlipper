@@ -1,5 +1,5 @@
-# Projects Showcase
-## In a unique style using Three JS and React Three Fiber 
+# DevFlipper 
+## Projects Showcase in a unique style using Three JS and React Three Fiber 
 
 
 View Live : https://dev-flipper.vercel.app/
