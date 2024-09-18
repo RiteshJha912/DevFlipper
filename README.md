@@ -1,5 +1,6 @@
-# Projects showcase Using ThreeJS flipbook !
+# Projects Showcase
+## In a unique style using Three JS and React Three Fiber 
 
-View Live : https://project-flipbook.vercel.app/
+View Live : https://dev-flipper.vercel.app/
 
 Play around and Enjoy !
